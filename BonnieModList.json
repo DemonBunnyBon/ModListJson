@@ -47,7 +47,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/tag/1.0.2"
+					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.2/GearVariation.modcomponent"
 				]
 			},
 			"aliases": []
@@ -93,7 +93,7 @@
 			"updater": {
 				"enable": true,
 				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/tag/1.0.2"
+					"https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.3/EdiblePlants.dll"
 				]
 			},
 			"aliases": [
