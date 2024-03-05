@@ -1,2 +1,2 @@
 # ModListJson
-just json and thumbnails for tld mod website - not important
+just json and thumbnails for tld mod website - nothing important here
