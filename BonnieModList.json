@@ -31,8 +31,7 @@
 			"dependencies": [
 				"ModComponent",
 				"GearSpawner",
-				"CraftingRevisions",
-				"Modders' Gear Toolbox"
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
@@ -51,7 +50,9 @@
 					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.2/GearVariation.modcomponent"
 				]
 			},
-			"aliases": []
+			"aliases": [
+				"Gear  Variation"
+			]
 		},
 		{
 			"type": "mod",
@@ -63,9 +64,9 @@
 			"released": "2024-02-13",
 			"updated": "2024-02-23",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.3/EdiblePlants.dll",
-			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Allows eating of prepared plants such as rosehips and reishi, as well as beard lichen, with customizable options for nutrition.",
-			"tags": "food, eat, eating, plant, plants",
+			"modURL": "https://githttps://github.com/DemonBunnyBon/TLD-Edible-Plants",
+			"description": "Enables you to eat prepared plants such as reishi or rose hips as well as beard lichen with options to customize their nutrition.",
+			"tags": "food, plants, plant, eating, eat",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -98,8 +99,56 @@
 				]
 			},
 			"aliases": [
-				"Edible Plants",
-				"TLD-Edible-Plants"
+				"Edible Plants"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "BowRepair",
+			"displayName": "Bow Repair",
+			"author": "Bonnie",
+			"previousAuthors": "",
+			"released": "2024-03-10",
+			"updated": "2024-03-10",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.0.0/BowRepair.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
+			"description": "Makes bows repairable with options as to where you can repair them, as well as an option to repair the DLC bow variants.",
+			"tags": "bow, repair, fix, milling, repairing, fixing",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/Thumb_BR.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.0.0/BowRepair.dll"
+				]
+			},
+			"aliases": [
+				"Bow Repair"
 			]
 		}
 	]
