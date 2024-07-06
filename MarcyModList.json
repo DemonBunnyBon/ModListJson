@@ -150,6 +150,58 @@
 			"aliases": [
 				"Bow Repair"
 			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "PineNeedleTea",
+			"displayName": "Pine Needle Tea",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-07-06",
+			"updated": "2024-07-06",
+			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.0/PineNeedleTea.zip",
+			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
+			"description": "Adds a renewable herbal tea source via pine needles.",
+			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep",
+			"categories": [
+				"Quality of Life",
+				"Gear Items",
+				"Food"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DemonBunnyBon/PineNeedleTea/blob/main/Thumb_PNT.png?raw=true"
+			],
+			"dependencies": [
+				"ModSettings",
+				"ModComponent",
+				"CraftingRevisions"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.30",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": [
+					"https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.0/PineNeedleTea.zip"
+				]
+			},
+			"aliases": [
+				"PineNeedleTea",
+				"Pine Needle Tea"
+			]
 		}
 	]
 }
