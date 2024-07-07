@@ -7,7 +7,7 @@
 		{
 			"type": "mod",
 			"version": "1.0.3",
-			"name": "TLD-Gear-Variation",
+			"name": "GearVariation",
 			"displayName": "Gear Variation",
 			"author": "Marcy",
 			"previousAuthors": "",
@@ -51,7 +51,7 @@
 				]
 			},
 			"aliases": [
-				"Gear  Variation"
+				"Gear Variation"
 			]
 		},
 		{
