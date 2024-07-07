@@ -46,9 +46,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.2/GearVariation.modcomponent"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Gear Variation"
@@ -94,9 +92,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.3/EdiblePlants.dll"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Edible Plants"
@@ -143,9 +139,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.0.0/BowRepair.dll"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Bow Repair"
@@ -153,14 +147,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "PineNeedleTea",
 			"displayName": "Pine Needle Tea",
 			"author": "Marcy",
 			"previousAuthors": "",
 			"released": "2024-07-06",
 			"updated": "2024-07-06",
-			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.0/PineNeedleTea.zip",
+			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.1/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
 			"description": "Adds a renewable herbal tea source via pine needles.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep",
@@ -194,9 +188,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.0/PineNeedleTea.zip"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"PineNeedleTea",
