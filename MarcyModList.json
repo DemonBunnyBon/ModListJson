@@ -16,7 +16,7 @@
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.2/GearVariation.modcomponent",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation",
 			"description": "Adds new variations of tools with unique looks and stats to the game.",
-			"tags": "gear, item, items, tools, tool, variations, variation",
+			"tags": "gear,item,items,tools,tool,variations,variation,axe,knife,hacksaw,hammer,hatchet,unique",
 			"categories": [
 				"Gameplay",
 				"Gear Items"
@@ -64,7 +64,7 @@
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.4/EdiblePlants.dll",
 			"modURL": "https://githttps://github.com/DemonBunnyBon/TLD-Edible-Plants",
 			"description": "Enables you to eat prepared plants such as reishi or rose hips as well as beard lichen with options to customize their nutrition.",
-			"tags": "food, plants, plant, eating, eat",
+			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -110,7 +110,7 @@
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.1.0/BowRepair.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
 			"description": "Makes bows repairable with customizable options. Optionally allows to repair DLC bow variants.",
-			"tags": "bow, repair, fix, milling, repairing, fixing",
+			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
 			"categories": [
 				"Quality of Life",
 				"Gameplay",
@@ -157,7 +157,7 @@
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.1/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
 			"description": "Adds a renewable herbal tea source via pine needles.",
-			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep",
+			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage",
 			"categories": [
 				"Quality of Life",
 				"Gear Items",
