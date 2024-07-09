@@ -54,14 +54,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.3",
+			"version": "1.1.4",
 			"name": "EdiblePlants",
 			"displayName": "Edible Plants",
 			"author": "Marcy",
 			"previousAuthors": "",
 			"released": "2024-02-13",
-			"updated": "2024-02-23",
-			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.3/EdiblePlants.dll",
+			"updated": "2024-07-09",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.4/EdiblePlants.dll",
 			"modURL": "https://githttps://github.com/DemonBunnyBon/TLD-Edible-Plants",
 			"description": "Enables you to eat prepared plants such as reishi or rose hips as well as beard lichen with options to customize their nutrition.",
 			"tags": "food, plants, plant, eating, eat",
@@ -134,7 +134,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
