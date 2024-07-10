@@ -31,8 +31,9 @@
 			"dependencies": [
 				"ModComponent",
 				"GearSpawner",
-				"CraftingRevisions",
-				"Modders' Gear Toolbox"
+				"Modders Gear Toolbox",
+				"CraftingRevisions"
+				
 			],
 			"status": {
 				"working": true,
