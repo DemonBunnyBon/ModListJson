@@ -47,9 +47,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.3/GearVariation.modcomponent"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Gear Variation"
@@ -95,9 +93,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.4/EdiblePlants.dll"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Edible Plants"
@@ -144,9 +140,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.1.0/BowRepair.dll"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"Bow Repair"
@@ -195,9 +189,7 @@
 			},
 			"updater": {
 				"enable": true,
-				"downloads": [
-					"https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.1/PineNeedleTea.zip"
-				]
+				"downloads": []
 			},
 			"aliases": [
 				"PineNeedleTea",
