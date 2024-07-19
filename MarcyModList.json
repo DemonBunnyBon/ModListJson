@@ -56,7 +56,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.4",
+			"version": "1.1.5",
 			"name": "EdiblePlants",
 			"displayName": "Edible Plants",
 			"author": "Marcy",
@@ -64,7 +64,7 @@
 			"released": "2024-02-13",
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.4/EdiblePlants.dll",
-			"modURL": "https://githttps://github.com/DemonBunnyBon/TLD-Edible-Plants",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
 			"description": "Enables you to eat prepared plants such as reishi, rose hips and beard lichen.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
@@ -96,13 +96,11 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": [
-				"Edible Plants"
-			]
+			"aliases": []
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "BowRepair",
 			"displayName": "Bow Repair",
 			"author": "Marcy",
@@ -149,7 +147,7 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "PineNeedleTea",
 			"displayName": "Pine Needle Tea",
 			"author": "Marcy",
