@@ -47,7 +47,7 @@
 				"mlversion": "0.6.1"
 			},
 			"updater": {
-				"enable": true,
+				"enable": false,
 				"downloads": []
 			},
 			"aliases": [
