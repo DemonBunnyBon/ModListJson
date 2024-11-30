@@ -147,17 +147,17 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "2.0.0",
 			"name": "PineNeedleTea",
 			"displayName": "Pine Needle Tea",
 			"author": "Marcy",
 			"previousAuthors": "",
 			"released": "2024-07-06",
-			"updated": "2024-07-06",
-			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/1.0.2/PineNeedleTea.zip",
+			"updated": "2024-11-30",
+			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.0/Pine.Needle.Tea.2.0.0.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
 			"description": "Adds a renewable herbal tea source via pine needles.",
-			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage",
+			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
 				"Gear Items",
@@ -183,7 +183,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.31",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
