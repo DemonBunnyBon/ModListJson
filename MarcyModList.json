@@ -15,7 +15,7 @@
 			"updated": "2024-05-22",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.3/GearVariation.modcomponent",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation",
-			"description": "Adds new variations of tools with unique looks and statistics to the game.",
+			"description": "Adds new variants of tools to the game, with different looks and statistics.",
 			"tags": "gear,item,items,tools,tool,variations,variation,axe,knife,hacksaw,hammer,hatchet,unique",
 			"categories": [
 				"Gameplay",
@@ -65,7 +65,7 @@
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.5/EdiblePlants.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Enables you to eat prepared plants such as reishi, rose hips and beard lichen.",
+			"description": "Makes plants such as rosehips or reishi edible, with high amount of customization.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
@@ -109,7 +109,7 @@
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.1.1/BowRepair.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
-			"description": "Makes bows repairable with customizable options, including DLC bow variants.",
+			"description": "Makes bows repairable, with adjustable settings.",
 			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
 			"categories": [
 				"Quality of Life",
@@ -156,7 +156,7 @@
 			"updated": "2024-11-30",
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.0/Pine.Needle.Tea.2.0.0.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
-			"description": "Adds a renewable herbal tea source via pine needles.",
+			"description": "Adds pine needles, found under trees, which can be turned into a herbal tea high in Vitamin C.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
