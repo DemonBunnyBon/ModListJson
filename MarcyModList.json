@@ -31,9 +31,8 @@
 			"dependencies": [
 				"ModComponent",
 				"GearSpawner",
-				"Modders Gear Toolbox",
-				"CraftingRevisions"
-				
+				"CraftingRevisions",
+				"Modders Gear Toolbox"
 			],
 			"status": {
 				"working": true,
@@ -52,7 +51,8 @@
 			},
 			"aliases": [
 				"Gear Variation"
-			]
+			],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -96,7 +96,8 @@
 				"enable": true,
 				"downloads": []
 			},
-			"aliases": []
+			"aliases": [],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -143,7 +144,8 @@
 			},
 			"aliases": [
 				"Bow Repair"
-			]
+			],
+			"replaces": []
 		},
 		{
 			"type": "mod",
@@ -160,6 +162,7 @@
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
+				"Gameplay",
 				"Gear Items",
 				"Food"
 			],
@@ -193,7 +196,54 @@
 			"aliases": [
 				"PineNeedleTea",
 				"Pine Needle Tea"
-			]
+			],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "CaffeinatedSodas",
+			"displayName": "Caffeinated Sodas",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2024-12-08",
+			"updated": "2024-12-08",
+			"downloadURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas/releases/download/1.0.0/CaffeinatedSodas.dll",
+			"modURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas",
+			"description": "Gives sodas a fatigue reduction buff. Since sodas often contain caffeine and are high in sugar they're bound to give you at least a little kick, right?",
+			"tags": "soda,caffeine,fatigue,buff,energy,drink,food",
+			"categories": [
+				"Quality of Life",
+				"Food",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DemonBunnyBon/ModListJson/blob/main/THUMB_CS.png?raw=true"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
