@@ -244,6 +244,49 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "DroppableUndroppables",
+			"displayName": "Droppable Undroppables",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-01-18",
+			"updated": "2025-01-18",
+			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.0.0/DroppableUndroppables.dll",
+			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
+			"description": "Makes previously undroppable items removable from the inventory, as well as giving them proper weight.",
+			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave",
+			"categories": [
+				"Quality of Life",
+				"Gear Items",
+				"Misc"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://github.com/DemonBunnyBon/ModListJson/blob/main/THUMB_DU.png?raw=true"
+			],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
