@@ -256,7 +256,7 @@
 			"updated": "2025-01-22",
 			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.2.1/DroppableUndroppables.dll",
 			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
-			"description": "Makes previously undroppable items removable from the inventory, as well as giving them proper weight.",
+			"description": "Makes previously undroppable items removable from the inventory. Optionally makes all collectibles into regular inventory items as well.",
 			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave,notes,note",
 			"categories": [
 				"Quality of Life",
