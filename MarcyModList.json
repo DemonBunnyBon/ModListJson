@@ -269,7 +269,7 @@
 			"images": [
 				"https://github.com/DemonBunnyBon/ModListJson/blob/main/THUMB_DU.png?raw=true"
 			],
-			"dependencies": [],
+			"dependencies": ["ModSettings"],
 			"status": {
 				"working": true,
 				"beta": false,
