@@ -15,7 +15,7 @@
 			"updated": "2024-05-22",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.3/GearVariation.modcomponent",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation",
-			"description": "Adds new variants of tools to the game, with different looks and statistics.",
+			"description": "Adds new variants of tools to the game, with unique looks and statistics.",
 			"tags": "gear,item,items,tools,tool,variations,variation,axe,knife,hacksaw,hammer,hatchet,unique",
 			"categories": [
 				"Gameplay",
@@ -65,7 +65,7 @@
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.5/EdiblePlants.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Makes plants such as rosehips or reishi edible, with high amount of customization.",
+			"description": "Makes plants such as rosehips and reishi edible, with high amount of customization.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
@@ -110,7 +110,7 @@
 			"updated": "2024-12-04",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.2.1/BowRepair.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
-			"description": "Makes bows repairable, with adjustable settings. This includes DLC bow variants if enabled.",
+			"description": "A mod that makes bows repairable, with lots of customization options.",
 			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
 			"categories": [
 				"Quality of Life",
@@ -158,7 +158,7 @@
 			"updated": "2024-12-14",
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.2/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
-			"description": "Adds pine needles, found under trees, which can be turned into a herbal tea high in Vitamin C.",
+			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea, with customizable Vitamin C amount.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
