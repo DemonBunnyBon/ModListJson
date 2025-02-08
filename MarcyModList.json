@@ -6,56 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.0.3",
-			"name": "GearVariation",
-			"displayName": "Gear Variation",
-			"author": "Marcy",
-			"previousAuthors": "",
-			"released": "2024-01-21",
-			"updated": "2024-05-22",
-			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation/releases/download/1.0.3/GearVariation.modcomponent",
-			"modURL": "https://github.com/DemonBunnyBon/TLD-Gear-Variation",
-			"description": "Adds new variants of tools to the game, with unique looks and statistics.",
-			"tags": "gear,item,items,tools,tool,variations,variation,axe,knife,hacksaw,hammer,hatchet,unique",
-			"categories": [
-				"Gameplay",
-				"Gear Items"
-			],
-			"gameversion": [
-				"vanilla",
-				"tftft"
-			],
-			"images": [
-				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/Thumb_GV.png"
-			],
-			"dependencies": [
-				"ModComponent",
-				"GearSpawner",
-				"CraftingRevisions",
-				"Modders Gear Toolbox"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "update coming eventually - no eta",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
-			},
-			"updater": {
-				"enable": false,
-				"downloads": []
-			},
-			"aliases": [
-				"Gear Variation"
-			],
-			"replaces": []
-		},
-		{
-			"type": "mod",
 			"version": "1.1.5",
 			"name": "EdiblePlants",
 			"displayName": "Edible Plants",
