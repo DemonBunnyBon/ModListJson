@@ -219,7 +219,55 @@
 			"images": [
 				"https://github.com/DemonBunnyBon/ModListJson/blob/main/THUMB_DU.png?raw=true"
 			],
-			"dependencies": ["ModSettings"],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "PlantHarvestTweaker",
+			"displayName": "Plant Harvest Tweaker",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-03-28",
+			"updated": "2025-03-28",
+			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.0.0/PlantHarvestTweaker.dll",
+			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
+			"description": "Allows to change the harvested amount and harvest time of all plants in the game. Allows to randomize the item yield between minimum and maximum values.",
+			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
+			"categories": [
+				"Gameplay",
+				"Cheats",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/PHT_Thumb.png"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
 				"beta": false,
