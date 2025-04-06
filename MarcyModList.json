@@ -15,7 +15,7 @@
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.5/EdiblePlants.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Makes plants such as rosehips and reishi edible, with high amount of customization.",
+			"description": "Makes harvested plants like rosehips, reishi etc. edible. Vitamin C and Calories are customizable for each item. Allows to move the items to the food category for ease of use.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
@@ -60,7 +60,7 @@
 			"updated": "2024-12-04",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.2.1/BowRepair.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
-			"description": "A mod that makes bows repairable, with lots of customization options.",
+			"description": "Allows fixing all types of bows, and determine the amount of required materials and location.",
 			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
 			"categories": [
 				"Quality of Life",
@@ -108,7 +108,7 @@
 			"updated": "2024-12-14",
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.2/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
-			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea, with customizable Vitamin C amount.",
+			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea high in Vitamin C, with customization options.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
@@ -160,7 +160,7 @@
 			"updated": "2024-12-08",
 			"downloadURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas/releases/download/1.0.0/CaffeinatedSodas.dll",
 			"modURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas",
-			"description": "Gives sodas a fatigue reduction buff. Since sodas often contain caffeine and are high in sugar they're bound to give you at least a little kick, right?",
+			"description": "Sodas now reduce fatigue, with customizable amount for each soda. Since sodas often contain caffeine and are high in sugar they're bound to give you at least a little kick, right?",
 			"tags": "soda,caffeine,fatigue,buff,energy,drink,food",
 			"categories": [
 				"Quality of Life",
@@ -206,7 +206,7 @@
 			"updated": "2025-04-06",
 			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.5.0/DroppableUndroppables.dll",
 			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
-			"description": "Makes previously undroppable items removable from the inventory. Optionally makes all collectibles into regular inventory items as well.",
+			"description": "Allows to move any item freely, and remove all previously non-droppable items from inventory. Gives option to turn collectibles into regular items for immersion. Optionally adds weight to items that should have it but do not.",
 			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave,notes,note",
 			"categories": [
 				"Quality of Life",
@@ -251,7 +251,7 @@
 			"updated": "2025-04-04",
 			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.3.5/PlantHarvestTweaker.dll",
 			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
-			"description": "Allows to change the harvested amount and harvest time of all plants in the game. Allows to randomize the item yield between minimum and maximum values.",
+			"description": "Allows to change the harvested amount and harvest time of all plants in the game. Allows to randomize the item yield between minimum and maximum values. Adds an option to make tools degrade when using them to harvest plants.",
 			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
 			"categories": [
 				"Gameplay",
