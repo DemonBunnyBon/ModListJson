@@ -206,7 +206,7 @@
 			"updated": "2025-04-06",
 			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.5.0/DroppableUndroppables.dll",
 			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
-			"description": "Allows to move any item freely, and remove all previously non-droppable items from inventory. Gives option to turn collectibles into regular items for immersion. Optionally adds weight to items that should have it but do not.",
+			"description": "Allows moving all possible items, and removing of all previously non-droppable items from inventory. Gives option to turn collectibles into regular items for immersion. Optionally adds weight to items that should have it but do not.",
 			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave,notes,note",
 			"categories": [
 				"Quality of Life",
