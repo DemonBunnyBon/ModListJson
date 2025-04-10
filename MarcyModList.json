@@ -23,7 +23,8 @@
 				"Food"
 			],
 			"gameversion": [
-				"vanilla"
+				"vanilla",
+				"tftft"
 			],
 			"images": [
 				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/Thumb_EP.png"
