@@ -15,7 +15,7 @@
 			"updated": "2024-07-09",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.5/EdiblePlants.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Makes harvested plants like rosehips, reishi etc. edible. Vitamin C and Calories are customizable for each item. Allows to move the items to the food category for ease of use.",
+			"description": "Makes harvested plants such as rosehips edible. Vitamin C and Calories are customizable for each item. Allows to move the items to the food category for ease of use.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
@@ -61,7 +61,7 @@
 			"updated": "2024-12-04",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair/releases/download/1.2.1/BowRepair.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Bow-Repair",
-			"description": "Allows fixing all types of bows, and determine the amount of required materials and location.",
+			"description": "Makes all bows repairable, with customizable cost and location.",
 			"tags": "bow,repair,fix,milling,repairing,fixing,quality,gear",
 			"categories": [
 				"Quality of Life",
@@ -109,7 +109,7 @@
 			"updated": "2024-12-14",
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.2/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
-			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea high in Vitamin C, with customization options.",
+			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea high in Vitamin C. Highly customizable.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
