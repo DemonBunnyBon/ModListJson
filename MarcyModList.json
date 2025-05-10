@@ -286,6 +286,51 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "0.1.0",
+			"name": "TLR",
+			"displayName": "TLR - The Long Remaster ",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-05-10",
+			"updated": "2025-05-10",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLR-TheLongRemaster/releases/download/0.1.0/TLR.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLR-TheLongRemaster",
+			"description": "A visual overhaul mod aiming to revitalize many older in-game assets and bring them to the same quality you can expect from the new game updates.",
+			"tags": "Graphics,Visual,Remaster",
+			"categories": [
+				"Graphics",
+				"Overhaul"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/Thumb_TLR.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
