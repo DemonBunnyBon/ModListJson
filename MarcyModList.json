@@ -289,14 +289,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.1.0",
+			"version": "0.1.2",
 			"name": "TLR",
 			"displayName": "TLR - The Long Remaster ",
 			"author": "Marcy",
 			"previousAuthors": "",
 			"released": "2025-05-10",
-			"updated": "2025-05-10",
-			"downloadURL": "https://github.com/DemonBunnyBon/TLR-TheLongRemaster/releases/download/0.1.0/TLR.dll",
+			"updated": "2025-05-11",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLR-TheLongRemaster/releases/download/0.1.2/TLR.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLR-TheLongRemaster",
 			"description": "A visual overhaul mod aiming to revitalize many older in-game assets and bring them to the same quality you can expect from the new game updates.",
 			"tags": "Graphics,Visual,Remaster",
@@ -318,7 +318,7 @@
 				"working": true,
 				"beta": true,
 				"patchnotes": "",
-				"notes": "",
+				"notes": "Note: If a decoration item is in your inventory the model/texture may not get replaced due to the way those items are handled. You can use the swapobjectstlr command in the developer console to swap everything on the go if needed. Placed objects will be replaced when leaving and re-entering the scene and reloading.",
 				"issues": ""
 			},
 			"testedon": {
