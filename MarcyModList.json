@@ -331,6 +331,52 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "2.6.0",
+			"name": "HouseLights",
+			"displayName": "House Lights",
+			"author": "Marcy",
+			"previousAuthors": "Xpazeman",
+			"released": "2019-05-12",
+			"updated": "2025-05-19",
+			"downloadURL": "https://github.com/DemonBunnyBon/tld-house-lights/releases/download/2.6.0/HouseLights.dll",
+			"modURL": "https://github.com/DemonBunnyBon/tld-house-lights",
+			"description": "Magically brings back electricity to houses! You can turn lights in houses on and off using light switches.",
+			"tags": "lights,light,cheat,house,switch,lighting,electric,electricity,power",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_HL.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "See github page.",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
