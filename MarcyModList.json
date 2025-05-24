@@ -377,6 +377,46 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "InfiniteCheatDeath",
+			"displayName": "Infinite Cheat Death",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-05-24",
+			"updated": "2025-05-24",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/releases/download/1.0.0/InfiniteCheatDeath.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/tree/main",
+			"description": "A simple mod that allows infinite respawning. Each time you respawn, your life count will be set back to 3, allowing respawning infinitely. This mod does not remove respawn penalties, they are still present.",
+			"tags": "death,cheat,respawn,life,lives",
+			"categories": [
+				"Cheats"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
 		}
 	]
 }
