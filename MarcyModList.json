@@ -315,7 +315,7 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": true,
 				"patchnotes": "",
 				"notes": "Note: If a decoration item is in your inventory the model/texture may not get replaced due to the way those items are handled. You can use the swapobjectstlr command in the developer console to swap everything on the go if needed. Placed objects will be replaced when leaving and re-entering the scene and reloading.",
