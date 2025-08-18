@@ -353,7 +353,9 @@
 				"vanilla",
 				"tftft"
 			],
-			"images": ["https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_ICD.jpg"],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_ICD.jpg"
+			],
 			"dependencies": [],
 			"status": {
 				"working": true,
@@ -364,6 +366,53 @@
 			},
 			"testedon": {
 				"tldversion": "2.40",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "BetterCamera",
+			"displayName": "Better Camera",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2025-08-18",
+			"updated": "2025-08-18",
+			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera/releases/download/1.0.0/BetterCamera.dll",
+			"modURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera",
+			"description": "Improves and expands the photo camera functionality, allowing to save photos to disk, adjust camera behavior and unloading film from the camera.",
+			"tags": "camera,photo,tweak,gear,item",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items",
+				"Overhaul",
+				"Utility Mod"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BC.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
