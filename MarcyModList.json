@@ -252,7 +252,7 @@
 			"updated": "2025-10-06",
 			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.6.5/PlantHarvestTweaker.dll",
 			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
-			"description": "Allows to change the harvested amount and harvest time of all plants in the game. Allows to randomize the item yield between minimum and maximum values. Adds an option to make tools degrade when using them to harvest plants.",
+			"description": "Change the yield, harvest speed, and required tools of all plants in the game. Adds optional difficulty to harvesting plants, such as a chance to fail harvesting.",
 			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
 			"categories": [
 				"Gameplay",
