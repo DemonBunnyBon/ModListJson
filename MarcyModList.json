@@ -40,7 +40,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -86,7 +86,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -137,7 +137,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -186,7 +186,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -243,14 +243,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.6.8",
+			"version": "1.6.9",
 			"name": "PlantHarvestTweaker",
 			"displayName": "Plant Harvest Tweaker",
 			"author": "Marcy",
 			"previousAuthors": "",
 			"released": "2025-03-28",
-			"updated": "2025-10-10",
-			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.6.8/PlantHarvestTweaker.dll",
+			"updated": "2025-10-11",
+			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.6.9/PlantHarvestTweaker.dll",
 			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
 			"description": "Change the yield, harvest speed, and required tools of all plants in the game. Adds optional difficulty to harvesting plants, such as a chance to fail harvesting or yield randomization.",
 			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
@@ -277,7 +277,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -323,7 +323,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -365,7 +365,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
+				"tldversion": "2.44",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
