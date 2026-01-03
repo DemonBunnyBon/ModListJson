@@ -251,8 +251,7 @@
 			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
 			"categories": [
 				"Gameplay",
-				"Misc",
-				"Tweaks"
+				"Misc"
 			],
 			"gameversion": [
 				"vanilla"
@@ -437,6 +436,51 @@
 			],
 			"images": [
 				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_MCS.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [],
+			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "5.0.2",
+			"name": "Better-Night-Sky",
+			"displayName": "Better Night Sky",
+			"author": "Marcy",
+			"previousAuthors": "Jonayling,ds5678,zeboviouslyfakeacc,WulfMarius",
+			"released": "2017-08-29",
+			"updated": "2026-01-04",
+			"downloadURL": "https://github.com/DemonBunnyBon/BetterNightSky/releases/download/5.0.2/Better-Night-Sky.dll",
+			"modURL": "https://github.com/DemonBunnyBon/BetterNightSky/",
+			"description": "The mod completely overhauls the night sky with new textures and features by adding meteor showers as well as giving the moon and stars a completely new look. ",
+			"tags": "sky,night,stars,comet,meteor,moon,space,graphics,texture,textures",
+			"categories": [
+				"Graphics",
+				"Overhaul",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/BetterNightSky/refs/heads/main/Images/night-sky.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
