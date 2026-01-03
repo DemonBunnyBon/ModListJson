@@ -123,8 +123,7 @@
 			],
 			"dependencies": [
 				"ModSettings",
-				"ModComponent",
-				"CraftingRevisions"
+				"ModComponent"
 			],
 			"status": {
 				"working": true,
