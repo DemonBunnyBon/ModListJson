@@ -502,6 +502,54 @@
 			},
 			"aliases": [],
 			"replaces": []
+		},
+		{
+			"type": "mod",
+			"version": "0.7.5",
+			"name": "HUDPositioner",
+			"displayName": "HUD Positioner",
+			"author": "Marcy",
+			"previousAuthors": "",
+			"released": "2026-01-06",
+			"updated": "2026-01-06",
+			"downloadURL": "https://github.com/DemonBunnyBon/HUDPositioner/releases/download/0.7.5/HudPositioner.dll",
+			"modURL": "https://github.com/DemonBunnyBon/HUDPositioner",
+			"description": "HUD Positioner allows extended customization of the in-game UI elements by changing where they are anchored on the screen and freely adjusting their position via Mod Settings.",
+			"tags": "UI,GUI,HUD,graphics,element,status,stamina,panel,popup,move,position,positioning,anchor,display,bar,text,overlay",
+			"categories": [
+				"Quality of Life",
+				"Graphics",
+				"Utility Mod",
+				"Misc"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_HP.jpg"
+			],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "Note: keep in mind that the mod does not prevent overlap of UI elements, you can use offsets to prevent UI elements from overlapping if you want them to be anchored to the same part of the screen.\nNote no.2: While the mod was tested using different screen resolutions it may cause the UI to offset in an unwated way on certain screen sizes, you can use the offsets in settings to mitigate this effect.",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"HUD Positioner"
+			],
+			"replaces": []
 		}
 	]
 }
