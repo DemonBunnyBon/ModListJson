@@ -71,7 +71,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/main/Thumb_BR.png"
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BR.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
