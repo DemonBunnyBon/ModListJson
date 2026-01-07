@@ -480,7 +480,7 @@
 				"vanilla"
 			],
 			"images": [
-				"https://raw.githubusercontent.com/DemonBunnyBon/BetterNightSky/refs/heads/main/Images/night-sky.jpg"
+				"https://raw.githubusercontent.com/DemonBunnyBon/ModListJson/refs/heads/main/THUMB_BNS.jpg"
 			],
 			"dependencies": [
 				"ModSettings"
