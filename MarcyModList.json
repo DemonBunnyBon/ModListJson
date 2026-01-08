@@ -15,7 +15,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants/releases/download/1.1.6/EdiblePlants.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Edible-Plants",
-			"description": "Makes harvested plants such as rosehips edible. Vitamin C and Calories are customizable for each item. Allows to move the items to the food category for ease of use.",
+			"description": "Makes harvested plants edible with customizable calories and Vitamin C.",
 			"tags": "food,plants,plant,eating,eat,nutrition,vitamin,rose hips,rosehips,lichen,reishi,burdock",
 			"categories": [
 				"Quality of Life",
@@ -107,7 +107,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/PineNeedleTea/releases/download/2.0.3/PineNeedleTea.zip",
 			"modURL": "https://github.com/DemonBunnyBon/PineNeedleTea",
-			"description": "Adds pine needles spawning around the world which can be turned into a herbal tea high in Vitamin C. Highly customizable.",
+			"description": "Harvest pine fascicles and brew them into a tea high in Vitamin C. Everything is customizable.",
 			"tags": "pine,needle,tea,herbal,drink,foraging,forage,sleep,vitamin,beverage,nature",
 			"categories": [
 				"Quality of Life",
@@ -157,7 +157,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas/releases/download/1.0.1/CaffeinatedSodas.dll",
 			"modURL": "https://github.com/DemonBunnyBon/CaffeinatedSodas",
-			"description": "Sodas now reduce fatigue, with customizable amount for each soda. Since sodas often contain caffeine and are high in sugar they're bound to give you at least a little kick, right?",
+			"description": "Sodas now reduce a slight amount of fatigue. Sodas often contains caffeine, so they're bound to give you at least a little kick, right?",
 			"tags": "soda,caffeine,fatigue,buff,energy,drink,food",
 			"categories": [
 				"Quality of Life",
@@ -202,7 +202,7 @@
 			"updated": "2025-04-06",
 			"downloadURL": "https://github.com/DemonBunnyBon/DroppableUndroppables/releases/download/1.5.0/DroppableUndroppables.dll",
 			"modURL": "https://github.com/DemonBunnyBon/DroppableUndroppables",
-			"description": "Allows moving all possible items, and removing of all previously non-droppable items from inventory. Gives option to turn collectibles into regular items for immersion. Optionally adds weight to items that should have it but do not.",
+			"description": "Drop any item anywhere without restriction. No more undroppable collectibles, cameras, or shortwaves.",
 			"tags": "gear,item,drop,inventory,respirator,camera,bolt cutters,shortwave,notes,note",
 			"categories": [
 				"Quality of Life",
@@ -247,7 +247,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker/releases/download/1.7.0/PlantHarvestTweaker.dll",
 			"modURL": "https://github.com/DemonBunnyBon/PlantHarvestTweaker",
-			"description": "Change the yield, harvest speed, and required tools of all plants in the game. Adds optional difficulty to harvesting plants, such as a chance to fail harvesting or yield randomization.",
+			"description": "Customize everything about plant harvesting: time, required tools, tool degreadation, yield amount.",
 			"tags": "plants,gear,qol,quality of life,cheat,cheats,food,item,harvest,harvestable,plant,customization",
 			"categories": [
 				"Gameplay",
@@ -291,7 +291,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/tld-house-lights/releases/download/2.9.1/HouseLights.dll",
 			"modURL": "https://github.com/DemonBunnyBon/tld-house-lights",
-			"description": "Magically brings back electricity on Great Bear! You can turn lights on and off anywhere using light switches.",
+			"description": "Magically brings back electricity on Great Bear! No more stumbling around houses in the darkness!",
 			"tags": "lights,light,cheat,house,switch,lighting,electric,electricity,power",
 			"categories": [
 				"Quality of Life",
@@ -336,7 +336,7 @@
 			"updated": "2025-05-24",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/releases/download/1.0.0/InfiniteCheatDeath.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-InfiniteCheatDeath/tree/main",
-			"description": "A simple mod that allows infinite respawning. Each time you respawn, your life count will be set back to 3, allowing respawning infinitely. This mod does not remove respawn penalties, they are still present.",
+			"description": "Allows infinite amount of respawns. Penalties for cheating death are <i>not</i> removed.",
 			"tags": "death,cheat,respawn,life,lives",
 			"categories": [
 				"Cheats"
@@ -377,7 +377,7 @@
 			"updated": "2026-01-03",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera/releases/download/1.5.2/BetterCamera.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-Better-Camera",
-			"description": "Improves and expands the photo camera functionality, allowing to save photos to disk, adjust camera behavior, dynamically zoom in and out, and unload film from the camera.",
+			"description": "Improves the functionality of the camera by allowing to zoom, save photos to disk, and more",
 			"tags": "camera,photo,tweak,gear,item,picture,photos,pictures,dlc,tftft",
 			"categories": [
 				"Quality of Life",
@@ -424,7 +424,7 @@
 			"updated": "2025-08-31",
 			"downloadURL": "https://github.com/DemonBunnyBon/TLD-More-Cooking-Slots/releases/download/1.0.0/MoreCookingSlots.dll",
 			"modURL": "https://github.com/DemonBunnyBon/TLD-More-Cooking-Slots",
-			"description": "Adds more cooking slots to fire sources that look like they could have them but do not, such as fireplaces and fire barrels.",
+			"description": "Ever wonder why you can't fit more than 2 pots on a fire barrel? Well, now you can! This mod adds more cooking slots to certain fire sources.",
 			"tags": "fire,fireplace,cooking,inventory,food,pots,pot,skillet,skillets,can,cans,grill,cook",
 			"categories": [
 				"Quality of Life",
@@ -469,7 +469,7 @@
 			"updated": "2026-01-04",
 			"downloadURL": "https://github.com/DemonBunnyBon/BetterNightSky/releases/download/5.0.2/Better-Night-Sky.dll",
 			"modURL": "https://github.com/DemonBunnyBon/BetterNightSky/",
-			"description": "The mod completely overhauls the night sky with new textures and features by adding meteor showers as well as giving the moon and stars a completely new look. ",
+			"description": "Overhauls the night sky with new features by adding meteor showers as well as giving the moon and stars a completely new look. ",
 			"tags": "sky,night,stars,comet,meteor,moon,space,graphics,texture,textures",
 			"categories": [
 				"Graphics",
@@ -514,7 +514,7 @@
 			"updated": "2026-01-06",
 			"downloadURL": "https://github.com/DemonBunnyBon/HUDPositioner/releases/download/0.7.5/HudPositioner.dll",
 			"modURL": "https://github.com/DemonBunnyBon/HUDPositioner",
-			"description": "HUD Positioner allows extended customization of the in-game UI elements by changing where they are anchored on the screen and freely adjusting their position via Mod Settings.",
+			"description": "Allows extended customization of the in-game UI elements by changing where they are anchored on the screen and freely adjusting their position via Mod Settings.",
 			"tags": "UI,GUI,HUD,graphics,element,status,stamina,panel,popup,move,position,positioning,anchor,display,bar,text,overlay",
 			"categories": [
 				"Quality of Life",
